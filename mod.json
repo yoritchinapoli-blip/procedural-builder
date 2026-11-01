@@ -1,0 +1,9 @@
+{
+    "geode": "3.0.0",
+    "version": "1.0.0",
+    "id": "com.zetrix.proceduralbuilder",
+    "name": "Procedural Builder",
+    "developer": "Zetrix",
+    "description": "Imports procedural level_data.txt directly into the editor",
+    "supported-platforms": ["windows", "android"]
+}
